@@ -30,3 +30,5 @@ go.work.sum
 # Editor/IDE
 # .idea/
 # .vscode/
+*.swp
+cmd/kvpairs2mapd4wasm/kvpairs2mapd4wasm
